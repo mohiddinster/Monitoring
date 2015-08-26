@@ -1,4 +1,3 @@
-# Usage
 # check_graphite_metric_metadata modified script. Updated on 25 Aug 2015.
 # This script will send notification through nagios if threshold reach mentioned value.
 
