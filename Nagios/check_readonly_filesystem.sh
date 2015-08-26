@@ -4,7 +4,7 @@
 STATE_OK=0
 STATE_CRITICAL=2
 FILE='/tmp/check_ro.txt'
-touch $FILE &gt;/dev/null 2&gt;&amp;1
+touch $FILE >/dev/null 2>&1
 RESULT=$?
 if [ $RESULT -eq 0 ]; then
   echo "OK: Writable FileSystem"
