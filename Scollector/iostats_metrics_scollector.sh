@@ -1,7 +1,7 @@
 #!/bin/bash
 HOST=`hostname -s |cut -d '-' -f1`
 HOSTNAME=`hostname -s`
-FILEPATH='/usr/local/scollector/info'
+
 
 
 set -e
