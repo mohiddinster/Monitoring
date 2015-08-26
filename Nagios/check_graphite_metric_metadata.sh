@@ -1,6 +1,6 @@
 #!/bin/bash
 ##
-## check_graphite_metric
+## check_graphite_metric --- Updated 25 Aug 2015
 ##
 ##
 ## Checks for values provided by graphite interface.
